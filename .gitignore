@@ -1,0 +1,36 @@
+# Local learning materials
+local-resources/
+important materials/
+important materilas/
+
+# Documents
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Compiled C files
+*.exe
+*.out
+*.o
+*.obj
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
